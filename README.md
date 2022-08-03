@@ -24,20 +24,25 @@ Pandas kütüphanesi kullanılarak analiz ve görselleştirme işlemleri gerçek
 # Yapılan Analiz ve Görselleştirmeler
 
 - Takımların arena büyüklükleri 
+- 
 ![arena_büyüklüğü](https://user-images.githubusercontent.com/44268599/182625200-05ae0e0e-cd34-47cf-8cbe-9ccddd858bab.png)
 
 - Yıllara göre kaç takım kurulduğu bilgisi 
+- 
 ![her_yıl_kaç_takım_kurulduğu](https://user-images.githubusercontent.com/44268599/182625398-c8722ccf-dacc-4b0f-9199-44fae6e49053.png)
 
 - Her sezonda kaç adet oyuncunun yer aldığı
+- 
 ![her_sezonda_kaç_oyuncunun_yer_aldığı](https://user-images.githubusercontent.com/44268599/182625726-af4d5d41-038d-4b1f-8416-b06c2f890ef3.png)
 
 - Takımdaki her oyuncunun kaç sezondur o takımda oynadığı
 
 - Ev sahibi takımların maçları kazanma yüzdesi
+- 
 ![ev_sahibi_kazandı_mı](https://user-images.githubusercontent.com/44268599/182626280-ff97161a-2b64-48b5-9f06-f25582c721b0.png)
 
 - Sezonlara göre ev sahibi takımın kazanması durumu
+- 
 ![sezon_ev_sahibi](https://user-images.githubusercontent.com/44268599/182626571-3160b112-e832-474f-b81e-06c2a5cc6910.png)
 
 - En çok maç yapılan günde ev sahibinin kazanma yüzdesi
@@ -45,6 +50,7 @@ Pandas kütüphanesi kullanılarak analiz ve görselleştirme işlemleri gerçek
 - Arena kapasitesinin ev sahibi takımın kazanmasına etki yüzdesi
 
 - Maçların Liglere göre dağılım oranı
+- 
 ![lig](https://user-images.githubusercontent.com/44268599/182627158-502450f6-ef0d-43d2-a402-6f9c42e29588.png)
 
 - Geri Dönüş yapmanın kazanma üzerine etkisi
