@@ -7,11 +7,11 @@ SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Te
 Women in Tech Academy bitirme projesi NBA'den alınan maç, oyuncu, takım gibi bilgileri içeren 5 adet csv dosyasının analiz edilmesi ve görselleştirilmesi işlemlerini içermektedir. Bu proje kapsamında yararlandığım veri setlerine data kısmından ulaşabilirsiniz.
 
 # Veri Setleri Hakkında Bilgilendirme
-Teams Veri Seti: Takımların ID'leri, isimleri, şehirleri, arena vb. bilgileri içerir.
-Players Veri Seti: Oyuncuların isimleri, ID'leri ve oynadıkları takımlar hakkında bilgiler içerir
-Games Veri Seti: Oyunun oynandığı tarih, oyun ID'si, Ev sahibi ve Misafir takıma ait bilgiler içerir.
-Ranking Veri Seti: Takım ID'si, oyun sayısı, kazanma sayısı,kaybetme sayısı gibi bilgileri içerir.
-Games Details Veri Seti: Maçlara ve oyunculara ait daha detaylı bilgileri içerir.
+- Teams Veri Seti: Takımların ID'leri, isimleri, şehirleri, arena vb. bilgileri içerir.
+- Players Veri Seti: Oyuncuların isimleri, ID'leri ve oynadıkları takımlar hakkında bilgiler içerir
+- Games Veri Seti: Oyunun oynandığı tarih, oyun ID'si, Ev sahibi ve Misafir takıma ait bilgiler içerir.
+- Ranking Veri Seti: Takım ID'si, oyun sayısı, kazanma sayısı,kaybetme sayısı gibi bilgileri içerir.
+- Games Details Veri Seti: Maçlara ve oyunculara ait daha detaylı bilgileri içerir.
 
 # Analizde Kullanılan Kütüphane 
 Pandas kütüphanesi kullanılarak analiz ve görselleştirme işlemleri gerçekleştirilmiştir.
