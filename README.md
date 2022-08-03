@@ -1,6 +1,6 @@
 # Women-in-tech-academy-bitirme-projesi
 
-![thumbs_b_c_5d9b627667b2e657ec682ed8ee6e6b91](https://user-images.githubusercontent.com/44268599/182632241-2ad9d166-def3-4b6a-8c13-1eb2a69d3774.jpg)
+![352277](https://user-images.githubusercontent.com/44268599/182633715-ea38dfbd-acc0-499e-9c20-db6d89dc8dcd.jpg)
 
 Herkese merhaba!
 
