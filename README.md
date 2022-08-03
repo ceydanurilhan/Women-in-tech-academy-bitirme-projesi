@@ -1,5 +1,7 @@
 # Women-in-tech-academy-bitirme-projesi
 
+![thumbs_b_c_5d9b627667b2e657ec682ed8ee6e6b91](https://user-images.githubusercontent.com/44268599/182632241-2ad9d166-def3-4b6a-8c13-1eb2a69d3774.jpg)
+
 Herkese merhaba!
 
 SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Tech Academy proje katılımcılarından biriyim. Proje, 20–28 yaş aralığındaki 25 kadını 3 ay boyunca yazılım eğitimleriyle güçlendirerek sektörde iş gücüne katılımını hedefliyor. Projeyle ilgili daha fazla bilgiye https://sisterslab.co/women-in-tech-academy/ adresinden ulaşabilirsiniz.
@@ -22,6 +24,7 @@ Pandas kütüphanesi kullanılarak analiz ve görselleştirme işlemleri gerçek
 - Aynı değerlere sahip sütunlardan bir tanesi çıkarıldı.
 
 # Yapılan Analiz ve Görselleştirmeler
+Yapılan analiz ve görselleştirmelerden bir kaç örnek aşağıda yer almaktadır. Detaylara kodların yer aldığı dosyadan erişebilirsiniz.
 
 - Takımların arena büyüklükleri 
 
