@@ -55,3 +55,5 @@ Pandas kütüphanesi kullanılarak analiz ve görselleştirme işlemleri gerçek
 
 - Geri Dönüş yapmanın kazanma üzerine etkisi
 
+- Her maçta kaç oyuncu olduğu ve en başarılı oyuncu
+
